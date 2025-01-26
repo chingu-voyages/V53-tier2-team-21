@@ -35,7 +35,7 @@ your repo access and to practice PR'ing with your team *before* you start
 coding!
 
 - Bradley Urias: [GitHub](https://github.com/remotecodingdev) / [LinkedIn](https://www.linkedin.com/in/bradleyurias/)
-- Allen Mathews: [GitHub]](https://github.com/allenmathews) / [LinkedIn](https://linkedin.com/in/liaccountname)
+- Allen Mathews: [GitHub](https://github.com/allenmathews) / [LinkedIn](https://linkedin.com/in/liaccountname)
 
    ...
 - Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
